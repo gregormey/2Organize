@@ -1,0 +1,215 @@
+T2Organize
+v7
+r0
+t344616116.575550
+cCheck dependencies
+cProcessInfoPlistFile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Info.plist" _Organize-Info.plist
+cCopyStringsFile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch.gch _Organize_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom" "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel"
+cCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize" normal x86_64
+cTouch "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app"
+
+N/Developer 3/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer 3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/InfoPlist.strings
+c000000004EC9FB41000000000000005A
+t1321859905
+s90
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib
+c000000004EC9FB4100000000000202D4
+t1321859905
+s131796
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.h
+c000000004EC9FB410000000000000324
+t1321859905
+s804
+i<Cocoa/Cocoa.h>
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m
+c000000004EC9FB410000000000001E33
+t1321859905
+s7731
+i"_Organize_AppDelegate.h"
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel
+c000000004ECA25220000000000000088
+t1321870626
+s136
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_Prefix.pch
+c000000004EC9FB410000000000000095
+t1321859905
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/2Organize.LinkFileList
+c000000004EDA352E0000000000000125
+t1322923310
+s293
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o
+t1322923316
+s41792
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o
+t1322923316
+s5056
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app
+t1322923316
+s102
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Info.plist
+t1322923310
+s1290
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize
+t1322923316
+s22240
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/PkgInfo
+t1322923310
+s8
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1322923311
+s90
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/MainMenu.nib
+t1322923312
+s29892
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom
+t1322923316
+s6387
+
+N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m
+c000000004EC9FB41000000000000011D
+t1321859905
+s285
+i<Cocoa/Cocoa.h>
+
+N/var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch.gch
+t1322923316
+s54306576
+
+N_Organize-Info.plist
+c000000004EC9FB4100000000000003F3
+t1321859905
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies344616110#344616110#0(0"0(0#1#0"8626053952#0"0#
+
+CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344616116.291967
+e344616116.495755
+r1
+xCompileC
+xbuild/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m344616116#344616116#0(0"0(0#0#88"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m8625684352#1374"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/include" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources" -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m" -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o"0#
+
+CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344616116.217190
+e344616116.370099
+r1
+xCompileC
+xbuild/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m344616116#344616116#0(0"0(0#0#71"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m8626115744#1340"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/include" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources" -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m" -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib"
+s344616110.840426
+e344616112.812587
+r1
+xCompileXIB
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib344616110#344616112#0(0"0(0#0#91"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib8625264352#458"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    "/Developer 3/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib" --sdk "/Developer 3/SDKs/MacOSX10.6.sdk"0#
+
+CCopyStringsFile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s344616110.798062
+e344616111.840723
+r1
+xCopyStringsFile
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings344616110#344616111#0(0"0(0#0#96"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/English.lproj/InfoPlist.strings8625370272#428"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv ICONV /usr/bin/iconv    "/Developer 3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings" --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj"0#
+
+CDataModelCompile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom" "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel"
+s344616116.216115
+e344616116.291844
+r1
+xDataModelCompile
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel
+lSLF07#2@104"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel344616116#344616116#0(0"0(0#0#96"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel8626238656#370"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    "/Developer 3/usr/bin/momc" -XD_MOMC_TARGET_VERSION=10.6 "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel" "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom"0#
+
+CLd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize" normal x86_64
+s344616116.495852
+e344616116.572373
+r1
+xLd
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize
+xnormal
+xx86_64
+lSLF07#2@120"Link /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize344616116#344616116#0(0"0(0#0#0"8621780832#700"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    "/Developer 3/usr/bin/gcc-4.2" -arch x86_64 -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" "-L/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" -filelist "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/2Organize.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize"0#
+
+CProcessInfoPlistFile "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Info.plist" _Organize-Info.plist
+s344616110.725360
+e344616110.797943
+r1
+xProcessInfoPlistFile
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Info.plist
+x_Organize-Info.plist
+lSLF07#2@28"Process _Organize-Info.plist344616110#344616110#0(0"0(0#0#85"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize-Info.plist8625844224#400"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    builtin-infoPlistUtility _Organize-Info.plist -genpkginfo "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch.gch _Organize_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s344616112.812815
+e344616116.215920
+r1
+xProcessPCH
+x/var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch.gch
+x_Organize_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile _Organize_Prefix.pch344616112#344616116#0(0"0(0#0#85"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_Prefix.pch8628186016#1216"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/include" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources" -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_Prefix.pch" -o /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch.gch0#
+
+CTouch "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app"
+s344616116.572470
+e344616116.575501
+r1
+xTouch
+x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app
+lSLF07#2@96"Touch /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app344616116#344616116#0(0"0(0#0#0"8624592832#189"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    /usr/bin/touch -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app"0#
+
