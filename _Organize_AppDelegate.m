@@ -26,7 +26,7 @@
 	sourceListItems = [[NSMutableArray alloc] init];
 	
 	//Set up the "Library" parent item and children
-	SourceListItem *libraryItem = [SourceListItem itemWithTitle:@"PROJECTS" identifier:@"library"];
+	SourceListItem *libraryItem = [SourceListItem itemWithTitle:@"ITEMS" identifier:@"library"];
 	SourceListItem *musicItem = [SourceListItem itemWithTitle:@"Music" identifier:@"music"];
 	[musicItem setIcon:[NSImage imageNamed:@"Item.png"]];
 	SourceListItem *moviesItem = [SourceListItem itemWithTitle:@"Movies" identifier:@"movies"];
