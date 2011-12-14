@@ -1,7 +1,7 @@
 T2Organize
 v7
 r0
-t345454051.092358
+t345561102.395433
 cCheck dependencies
 cProcessInfoPlistFile /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Info.plist _Organize-Info.plist
 cCopyStringsFile /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -103,7 +103,6 @@ cCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Org
 cCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o /Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o /Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cLd /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize normal x86_64
-cTouch /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app
 
 N/Developer 3/SDKs/MacOSX10.6.sdk
 c000000004D5A274300000000000000EE
@@ -2022,941 +2021,941 @@ t1176079584
 s197
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/2Organize.icns
-c0000000046D31AEB000000000000D1FB
-t1188240107
+c000000004EE89EF2000000000000D1FB
+t1323867890
 s53755
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Addressbookbutton.tif
-c0000000046CC53830000000000005950
-t1187795843
+c000000004EE89EF20000000000005950
+t1323867890
 s22864
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Addressbookbuttonadd.tif
-c000000004746A77F00000000000060F4
-t1195812735
+c000000004EE89EF200000000000060F4
+t1323867890
 s24820
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Addressbookbuttondelete.tif
-c000000004746A78B00000000000060E8
-t1195812747
+c000000004EE89EF200000000000060E8
+t1323867890
 s24808
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Alarm_SnoozePressed.tiff
-c00000000496D8C130000000000000564
-t1231916051
+c000000004EE89EF20000000000000564
+t1323867890
 s1380
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/BottomBarButtonBlank.tiff
-c000000004EDA5062000000000000043E
-t1322930274
+c000000004EE89EF2000000000000043E
+t1323867890
 s1086
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ComposingPreferences.tiff
-c00000000470C5F500000000000000756
-t1191993168
+c000000004EE89EF20000000000000756
+t1323867890
 s1878
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Doc.tif
-c0000000047E4D4510000000000005D98
-t1206178897
+c000000004EE89EF20000000000005D98
+t1323867890
 s23960
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Document.tif
-c0000000046E4666C0000000000006818
-t1189373548
+c000000004EE89EF20000000000006818
+t1323867890
 s26648
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/DokumentbuttonAdd.tif
-c0000000046DCF7F80000000000006564
-t1188886520
+c000000004EE89EF20000000000006564
+t1323867890
 s25956
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/DokumentbuttonDelete.tif
-c0000000046DCF7E70000000000006544
-t1188886503
+c000000004EE89EF20000000000006544
+t1323867890
 s25924
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/English.lproj/InfoPlist.strings
-c000000004EC9FB41000000000000005A
-t1321859905
+c000000004EE89EF2000000000000005A
+t1323867890
 s90
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/English.lproj/MainMenu.xib
-c000000004EE6FE550000000000056D1E
-t1323761237
+c000000004EE89EF20000000000056D1E
+t1323867890
 s355614
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Firma.tif
-c000000004721FBEE0000000000004EA4
-t1193409518
+c000000004EE89EF20000000000004EA4
+t1323867890
 s20132
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/FlagIcon.tif
-c000000004655B2AB0000000000003DAC
-t1180021419
+c000000004EE89EF20000000000003DAC
+t1323867890
 s15788
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Folder.png
-c000000004EDA24100000000000000287
-t1322918928
+c000000004EE89EF20000000000000287
+t1323867890
 s647
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Forward_Normal.tiff
-c00000000470C5F550000000000000100
-t1191993173
+c000000004EE89EF20000000000000100
+t1323867890
 s256
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Forward_Rollover.tiff
-c00000000470C5F550000000000000182
-t1191993173
+c000000004EE89EF20000000000000182
+t1323867890
 s386
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Gespäch.tiff
-c00000000423E555F0000000000000146
-t1111381343
+c000000004EE89EF20000000000000146
+t1323867890
 s326
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/InMailbox.tiff
-c00000000457197530000000000000354
-t1165072211
+c000000004EE89EF20000000000000354
+t1323867890
 s852
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Item.png
-c000000004EDA24240000000000000C6D
-t1322918948
+c000000004EE89EF20000000000000C6D
+t1323867890
 s3181
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Kontakte.tif
-c0000000048DCB5080000000000005A4C
-t1222423816
+c000000004EE89EF20000000000005A4C
+t1323867890
 s23116
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/MailCount.tif
-c0000000046FE866500000000000058D8
-t1191085669
+c000000004EE89EF200000000000058D8
+t1323867890
 s22744
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/MailCountResizing.tif
-c00000000473DC5AE00000000000050B0
-t1195230638
+c000000004EE89EF200000000000050B0
+t1323867890
 s20656
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/MailbuttonAdd.tif
-c0000000046DCFDE900000000000061F4
-t1188888041
+c000000004EE89EF200000000000061F4
+t1323867890
 s25076
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/MailbuttonDelete.tif
-c0000000046DCFACE000000000000684C
-t1188887246
+c000000004EE89EF2000000000000684C
+t1323867890
 s26700
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Missing.tif
-c0000000043B06DFE00000000000003D2
-t1135635966
+c000000004EE89EF200000000000003D2
+t1323867890
 s978
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/NewFolder.tif
-c000000004723561D0000000000005168
-t1193498141
+c000000004EE89EF20000000000005168
+t1323867890
 s20840
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/NotesMailbox.tiff
-c0000000048DE092700000000000007C6
-t1222510887
+c000000004EE89EF200000000000007C6
+t1323867890
 s1990
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/NotesMailboxPlus.tif
-c0000000048DE0A6900000000000047D8
-t1222511209
+c000000004EE89EF200000000000047D8
+t1323867890
 s18392
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Notiz.tif
-c0000000046F14CDB0000000000004764
-t1190218971
+c000000004EE89EF20000000000004764
+t1323867890
 s18276
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/NotizAdd.tif
-c0000000046F16CE90000000000005260
-t1190227177
+c000000004EE89EF20000000000005260
+t1323867890
 s21088
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/OutMailbox.tiff
-c0000000045719753000000000000027A
-t1165072211
+c000000004EE89EF2000000000000027A
+t1323867890
 s634
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/OutlineViewbuttonAdd.tif
-c0000000046E464050000000000006148
-t1189372933
+c000000004EE89EF20000000000006148
+t1323867890
 s24904
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/OutlineViewbuttonDelete.tif
-c0000000046E463F50000000000006154
-t1189372917
+c000000004EE89EF20000000000006154
+t1323867890
 s24916
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.h
-c000000004D81C9F60000000000000522
-t1300351478
+c000000004EE89EF20000000000000522
+t1323867890
 s1314
 i<Cocoa/Cocoa.h>
 i"PXSourceListDelegate.h"
 i"PXSourceListDataSource.h"
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m
-c000000004D81C9F600000000000072C5
-t1300351478
+c000000004EE89EF200000000000072C5
+t1323867890
 s29381
 i"PXSourceList.h"
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceListDataSource.h
-c000000004D81C9F6000000000000078E
-t1300351478
+c000000004EE89EF2000000000000078E
+t1323867890
 s1934
 i<Cocoa/Cocoa.h>
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceListDelegate.h
-c000000004D81C9F600000000000008EF
-t1300351478
+c000000004EE89EF200000000000008EF
+t1323867890
 s2287
 i<Cocoa/Cocoa.h>
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Person.tif
-c0000000046DD1DCB00000000000057D4
-t1188896203
+c000000004EE89EF200000000000057D4
+t1323867890
 s22484
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PersonAdd.tif
-c0000000046D9976700000000000054E8
-t1188665191
+c000000004EE89EF200000000000054E8
+t1323867890
 s21736
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PersonDelete.tif
-c0000000046D9975B00000000000054A8
-t1188665179
+c000000004EE89EF200000000000054A8
+t1323867890
 s21672
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PostIt.tif
-c0000000047402C130000000000005900
-t1195387923
+c000000004EE89EF20000000000005900
+t1323867890
 s22784
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PostItPlus.tif
-c0000000047402CC00000000000006250
-t1195388096
+c000000004EE89EF20000000000006250
+t1323867890
 s25168
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/PrinterSetup.tiff
-c00000000423E469E00000000000003CE
-t1111377566
+c000000004EE89EF200000000000003CE
+t1323867890
 s974
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Project.tif
-c0000000047174C000000000000004C4C
-t1192709120
+c000000004EE89EF20000000000004C4C
+t1323867890
 s19532
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Reply_Normal.tiff
-c00000000470C5F53000000000000013A
-t1191993171
+c000000004EE89EF2000000000000013A
+t1323867890
 s314
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/SecurityColumn.tif
-c000000004655B2AB00000000000038A0
-t1180021419
+c000000004EE89EF200000000000038A0
+t1323867890
 s14496
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/SoundIcon.tiff
-c0000000047070CDC000000000000042E
-t1191644380
+c000000004EE89EF2000000000000042E
+t1323867890
 s1070
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.h
-c000000004D81C9F600000000000005AB
-t1300351478
+c000000004EE89EF200000000000005AB
+t1323867890
 s1451
 i<Cocoa/Cocoa.h>
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m
-c000000004D81C9F6000000000000059A
-t1300351478
+c000000004EE89EF2000000000000059A
+t1323867890
 s1434
 i"SourceListItem.h"
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TB_Delete.png
-c00000000470C5F580000000000000537
-t1191993176
+c000000004EE89EF20000000000000537
+t1323867890
 s1335
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TB_Forward.png
-c00000000470C5F58000000000000035B
-t1191993176
+c000000004EE89EF2000000000000035B
+t1323867890
 s859
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TB_Get_Mail.tiff
-c000000004571975B00000000000003D6
-t1165072219
+c000000004EE89EF200000000000003D6
+t1323867890
 s982
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TB_New.png
-c00000000470C5F5800000000000003C6
-t1191993176
+c000000004EE89EF200000000000003C6
+t1323867890
 s966
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TB_Reply.png
-c00000000470C5F5800000000000003ED
-t1191993176
+c000000004EE89EF200000000000003ED
+t1323867890
 s1005
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TabViewBG.tiff
-c0000000048C23DFF0000000000000912
-t1220689407
+c000000004EE89EF20000000000000912
+t1323867890
 s2322
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TabellebuttonAdd.tif
-c0000000046D6F0390000000000005E44
-t1188491321
+c000000004EE89EF20000000000005E44
+t1323867890
 s24132
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TabellebuttonDelete.tif
-c0000000046D698C50000000000005BA4
-t1188468933
+c000000004EE89EF20000000000005BA4
+t1323867890
 s23460
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ThreadListHeader.tiff
-c00000000470C5F520000000000000134
-t1191993170
+c000000004EE89EF20000000000000134
+t1323867890
 s308
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ToDoWindow-MinusUp.tiff
-c00000000470C5F5600000000000002AE
-t1191993174
+c000000004EE89EF200000000000002AE
+t1323867890
 s686
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ToDoWindow-PlusUp.tiff
-c00000000470C5F5600000000000002D6
-t1191993174
+c000000004EE89EF200000000000002D6
+t1323867890
 s726
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ToDo_Priority_P1.tiff
-c0000000048D9D6F00000000000000364
-t1222235888
+c000000004EE89EF20000000000000364
+t1323867890
 s868
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ToDo_Priority_P2.tiff
-c0000000048EBB7590000000000003F54
-t1223407449
+c000000004EE89EF20000000000003F54
+t1323867890
 s16212
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ToDo_Priority_P3.tiff
-c0000000048EBB7630000000000003F4C
-t1223407459
+c000000004EE89EF20000000000003F4C
+t1323867890
 s16204
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/ToDo_Priority_Pn.tiff
-c0000000048EBB65A0000000000003D7C
-t1223407194
+c000000004EE89EF20000000000003D7C
+t1323867890
 s15740
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TrashMailbox.png
-c00000000470C5F5900000000000004D1
-t1191993177
+c000000004EE89EF200000000000004D1
+t1323867890
 s1233
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/TrashMailbox.tiff
-c0000000045719753000000000000039E
-t1165072211
+c000000004EE89EF2000000000000039E
+t1323867890
 s926
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/Warning.tiff
-c0000000046E784DC00000000000100BA
-t1189577948
+c000000004EE89EF200000000000100BA
+t1323867890
 s65722
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/WordButton.tif
-c0000000046CC077400000000000059F0
-t1187776372
+c000000004EE89EF200000000000059F0
+t1323867890
 s23024
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/WordButtonAdd.tif
-c0000000046F213630000000000006980
-t1190269795
+c000000004EE89EF20000000000006980
+t1323867890
 s27008
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.h
-c000000004EDA4B4A000000000000043B
-t1322928970
+c000000004EE89EF2000000000000043B
+t1323867890
 s1083
 i<Cocoa/Cocoa.h>
 i"PXSourceList.h"
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m
-c000000004EDB42280000000000003387
-t1322992168
+c000000004EE89EF20000000000003387
+t1323867890
 s13191
 i"_Organize_AppDelegate.h"
 i"SourceListItem.h"
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel
-c000000004ECA25220000000000000088
-t1321870626
+c000000004EE8A0040000000000000088
+t1323868164
 s136
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_Prefix.pch
-c000000004EC9FB410000000000000095
-t1321859905
+c000000004EE89EF20000000000000095
+t1323867890
 s149
 i<Cocoa/Cocoa.h>
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/addbutton.tif
-c0000000046D68F250000000000005ECC
-t1188466469
+c000000004EE89EF20000000000005ECC
+t1323867890
 s24268
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/attachment.tiff
-c0000000045719753000000000000019A
-t1165072211
+c000000004EE89EF2000000000000019A
+t1323867890
 s410
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/blank.tif
-c000000004701DCDA00000000000045EC
-t1191304410
+c000000004EE89EF200000000000045EC
+t1323867890
 s17900
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/2Organize.LinkFileList
-c000000004EE6FBA90000000000000213
-t1323760553
+c000000004EE89EF20000000000000213
+t1323867890
 s531
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o
-t1323760581
+t1323868301
 s110916
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o
-t1323760580
+t1323868301
 s22188
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o
-t1323760580
+t1323868301
 s82384
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o
-t1323760580
+t1323868301
 s5024
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app
-t1323761251
+t1323867890
 s102
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Info.plist
-t1322936992
+t1323867890
 s1352
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize
-t1323760582
+t1323868302
 s81792
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/PkgInfo
-t1322936992
+t1323867890
 s8
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/2Organize.icns
-t1322923800
+t1323867890
 s53755
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Addressbookbutton.tif
-t1322923800
+t1323867890
 s22864
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Addressbookbuttonadd.tif
-t1322923800
+t1323867890
 s24820
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Addressbookbuttondelete.tif
-t1322923800
+t1323867890
 s24808
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Alarm_SnoozePressed.tiff
-t1322923799
+t1323867890
 s1380
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/BottomBarButtonBlank.tiff
-t1322930435
+t1323867890
 s1086
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ComposingPreferences.tiff
-t1322923799
+t1323867890
 s1878
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Doc.tif
-t1322923800
+t1323867890
 s23960
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Document.tif
-t1322923800
+t1323867890
 s26648
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/DokumentbuttonAdd.tif
-t1322923800
+t1323867890
 s25956
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/DokumentbuttonDelete.tif
-t1322923800
+t1323867890
 s25924
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1322923311
+t1323867890
 s90
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/English.lproj/MainMenu.nib
-t1323761250
+t1323867890
 s70175
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Firma.tif
-t1322923800
+t1323867890
 s20132
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/FlagIcon.tif
-t1322923800
+t1323867890
 s15788
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Folder.png
-t1322923798
+t1323867890
 s647
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Forward_Normal.tiff
-t1322923799
+t1323867890
 s256
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Forward_Rollover.tiff
-t1322923799
+t1323867890
 s386
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Gespäch.tiff
-t1322923800
+t1323867890
 s326
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/InMailbox.tiff
-t1322923800
+t1323867890
 s852
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Item.png
-t1322923798
+t1323867890
 s3181
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Kontakte.tif
-t1322923800
+t1323867890
 s23116
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/MailCount.tif
-t1322923800
+t1323867890
 s22744
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/MailCountResizing.tif
-t1322923800
+t1323867890
 s20656
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/MailbuttonAdd.tif
-t1322923800
+t1323867890
 s25076
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/MailbuttonDelete.tif
-t1322923800
+t1323867890
 s26700
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Missing.tif
-t1322923800
+t1323867890
 s978
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/NewFolder.tif
-t1322923800
+t1323867890
 s20840
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/NotesMailbox.tiff
-t1322923799
+t1323867890
 s1990
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/NotesMailboxPlus.tif
-t1322923799
+t1323867890
 s18392
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Notiz.tif
-t1322923800
+t1323867890
 s18276
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/NotizAdd.tif
-t1322923800
+t1323867890
 s21088
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/OutMailbox.tiff
-t1322923800
+t1323867890
 s634
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/OutlineViewbuttonAdd.tif
-t1322923800
+t1323867890
 s24904
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/OutlineViewbuttonDelete.tif
-t1322923800
+t1323867890
 s24916
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Person.tif
-t1322923800
+t1323867890
 s22484
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/PersonAdd.tif
-t1322923800
+t1323867890
 s21736
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/PersonDelete.tif
-t1322923800
+t1323867890
 s21672
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/PostIt.tif
-t1322923800
+t1323867890
 s22784
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/PostItPlus.tif
-t1322923801
+t1323867890
 s25168
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/PrinterSetup.tiff
-t1322923799
+t1323867890
 s974
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Project.tif
-t1322923800
+t1323867890
 s19532
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Reply_Normal.tiff
-t1322923799
+t1323867890
 s314
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/SecurityColumn.tif
-t1322923800
+t1323867890
 s14496
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/SoundIcon.tiff
-t1322923799
+t1323867890
 s1070
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TB_Delete.png
-t1322923799
+t1323867890
 s1335
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TB_Forward.png
-t1322923799
+t1323867890
 s859
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TB_Get_Mail.tiff
-t1322923800
+t1323867890
 s982
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TB_New.png
-t1322923799
+t1323867890
 s966
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TB_Reply.png
-t1322923799
+t1323867890
 s1005
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TabViewBG.tiff
-t1322923799
+t1323867890
 s2322
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TabellebuttonAdd.tif
-t1322923800
+t1323867890
 s24132
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TabellebuttonDelete.tif
-t1322923800
+t1323867890
 s23460
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ThreadListHeader.tiff
-t1322923799
+t1323867890
 s308
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ToDoWindow-MinusUp.tiff
-t1322923799
+t1323867890
 s686
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ToDoWindow-PlusUp.tiff
-t1322923799
+t1323867890
 s726
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ToDo_Priority_P1.tiff
-t1322923799
+t1323867890
 s868
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ToDo_Priority_P2.tiff
-t1322923799
+t1323867890
 s16212
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ToDo_Priority_P3.tiff
-t1322923799
+t1323867890
 s16204
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/ToDo_Priority_Pn.tiff
-t1322923799
+t1323867890
 s15740
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TrashMailbox.png
-t1322923799
+t1323867890
 s1233
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/TrashMailbox.tiff
-t1322923800
+t1323867890
 s926
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/Warning.tiff
-t1322923800
+t1323867890
 s65722
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/WordButton.tif
-t1322923800
+t1323867890
 s23024
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/WordButtonAdd.tif
-t1322923800
+t1323867890
 s27008
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom
-t1322923316
-s6387
+t2
+s0
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/addbutton.tif
-t1322923800
+t1323867890
 s24268
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/attachment.tiff
-t1322923800
+t1323867890
 s410
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/blank.tif
-t1322923800
+t1323867890
 s17900
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/deletebutton.tif
-t1322923800
+t1323867890
 s24268
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/dragBadge22.tif
-t1322923800
+t1323867890
 s19908
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/find.tiff
-t1322923800
+t1323867890
 s770
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/flagged_header.tiff
-t1322923800
+t1323867890
 s302
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/folder16.tif
-t1322923799
+t1323867890
 s18804
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/iCal 16.tif
-t1322923800
+t1323867890
 s22196
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/info.tif
-t1322923800
+t1323867890
 s22908
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/master_selected.tiff
-t1322923800
+t1323867890
 s1262
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/neue mail.tiff
-t1322923800
+t1323867890
 s1154
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/noImage.tiff
-t1322923800
+t1323867890
 s50478
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/redlight.tiff
-t1322923799
+t1323867890
 s638
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/save.tif
-t1322923799
+t1323867890
 s20252
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/sl-icon-small_album.tiff
-t1322923800
+t1323867890
 s1070
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/sl-icon-small_collection.tiff
-t1322923800
+t1323867890
 s1168
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/sl-icon-small_folder.tiff
-t1322923800
+t1323867890
 s1104
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/status_green_flat.tiff
-t1322923799
+t1323867890
 s516
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/status_nostatus_flat.tiff
-t1322923799
+t1323867890
 s332
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/status_red_flat.tiff
-t1322923799
+t1323867890
 s16728
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/status_yellow_flat.tiff
-t1322923799
+t1323867890
 s436
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/unread.tiff
-t1322923800
+t1323867890
 s546
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/unread_header.tiff
-t1322923800
+t1323867890
 s308
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/view_list.png
-t1322923800
+t1323867890
 s252
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/view_month.png
-t1322923800
+t1323867890
 s203
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/view_week.png
-t1322923801
+t1323867890
 s197
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/deletebutton.tif
-c0000000046D68F330000000000005ECC
-t1188466483
+c000000004EE89EF20000000000005ECC
+t1323867890
 s24268
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/dragBadge22.tif
-c000000004728E2670000000000004DC4
-t1193861735
+c000000004EE89EF20000000000004DC4
+t1323867890
 s19908
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/find.tiff
-c00000000457197530000000000000302
-t1165072211
+c000000004EE89EF20000000000000302
+t1323867890
 s770
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/flagged_header.tiff
-c0000000045719753000000000000012E
-t1165072211
+c000000004EE89EF2000000000000012E
+t1323867890
 s302
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/folder16.tif
-c0000000048118E140000000000004974
-t1209110036
+c000000004EE89EF20000000000004974
+t1323867890
 s18804
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/iCal 16.tif
-c0000000047B2A51000000000000056B4
-t1202890000
+c000000004EE89EF200000000000056B4
+t1323867890
 s22196
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/info.tif
-c000000004728E051000000000000597C
-t1193861201
+c000000004EE89EF2000000000000597C
+t1323867890
 s22908
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/main.m
-c000000004EC9FB41000000000000011D
-t1321859905
+c000000004EE89EF2000000000000011D
+t1323867890
 s285
 i<Cocoa/Cocoa.h>
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/master_selected.tiff
-c0000000041C8BF5F00000000000004EE
-t1103675231
+c000000004EE89EF200000000000004EE
+t1323867890
 s1262
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/neue mail.tiff
-c0000000043AC7BD70000000000000482
-t1135377367
+c000000004EE89EF20000000000000482
+t1323867890
 s1154
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/noImage.tiff
-c000000004748612C000000000000C52E
-t1195925804
+c000000004EE89EF2000000000000C52E
+t1323867890
 s50478
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/redlight.tiff
-c00000000470C5F53000000000000027E
-t1191993171
+c000000004EE89EF2000000000000027E
+t1323867890
 s638
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/save.tif
-c0000000048F432FC0000000000004F1C
-t1223963388
+c000000004EE89EF20000000000004F1C
+t1323867890
 s20252
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/sl-icon-small_album.tiff
-c0000000043AC7BE5000000000000042E
-t1135377381
+c000000004EE89EF2000000000000042E
+t1323867890
 s1070
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/sl-icon-small_collection.tiff
-c0000000043AC7BE90000000000000490
-t1135377385
+c000000004EE89EF20000000000000490
+t1323867890
 s1168
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/sl-icon-small_folder.tiff
-c0000000043AC7BD40000000000000450
-t1135377364
+c000000004EE89EF20000000000000450
+t1323867890
 s1104
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/status_green_flat.tiff
-c00000000470C5C2C0000000000000204
-t1191992364
+c000000004EE89EF20000000000000204
+t1323867890
 s516
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/status_nostatus_flat.tiff
-c00000000470C5C2C000000000000014C
-t1191992364
+c000000004EE89EF2000000000000014C
+t1323867890
 s332
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/status_red_flat.tiff
-c0000000048DEA7C70000000000004158
-t1222551495
+c000000004EE89EF20000000000004158
+t1323867890
 s16728
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/status_yellow_flat.tiff
-c00000000470C5C2C00000000000001B4
-t1191992364
+c000000004EE89EF200000000000001B4
+t1323867890
 s436
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/unread.tiff
-c00000000457197520000000000000222
-t1165072210
+c000000004EE89EF20000000000000222
+t1323867890
 s546
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/unread_header.tiff
-c00000000457197520000000000000134
-t1165072210
+c000000004EE89EF20000000000000134
+t1323867890
 s308
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/view_list.png
-c0000000046198CDE00000000000000FC
-t1176079582
+c000000004EE89EF200000000000000FC
+t1323867890
 s252
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/view_month.png
-c0000000046198CE000000000000000CB
-t1176079584
+c000000004EE89EF200000000000000CB
+t1323867890
 s203
 
 N/Users/stephanbansemer/Desktop/2Organize/2Organize/view_week.png
-c0000000046198CE000000000000000C5
-t1176079584
+c000000004EE89EF200000000000000C5
+t1323867890
 s197
 
 N/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/2Organize.icns
@@ -3875,7 +3874,7 @@ t1322920585
 s54306576
 
 N/var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch.gch
-t1323760578
+t1323868300
 s54306576
 
 N/var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-ctlqgdeiakdzkvbxwcltyyebzmii/_Organize_Prefix.pch.gch
@@ -3887,13 +3886,13 @@ t1322923316
 s54306576
 
 N_Organize-Info.plist
-c000000004EDA6A9F00000000000003F8
-t1322936991
+c000000004EE89EF200000000000003F8
+t1323867890
 s1016
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies345454049#345454049#0(0"0(0#1#0"7161117524010233856#0"0#
+lSLF07#2@18"Check dependencies345561092#345561092#0(0"0(0#1#0"7161117524010233856#0"0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/PXSourceList.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s344619413.977717
@@ -3925,8 +3924,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@87"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/PXSourceList.m344616601#344616608#0(0"0(0#0#79"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/PXSourceList.m8622775008#1356"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/include" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources" -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/PXSourceList.m" -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o"0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o /Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s345453380.591108
-e345453381.123642
+s345561101.104000
+e345561101.577246
 r1
 xCompileC
 xbuild/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o
@@ -3935,7 +3934,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@73"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m345453380#345453381#0(0"0(0#0#65"/Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m8610852512#1228"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o0#
+lSLF07#2@73"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m345561101#345561101#0(0"0(0#0#65"/Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m8613212448#1228"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/PXSourceList.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/PXSourceList.o0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/SourceListItem.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s344621541.410943
@@ -3954,8 +3953,8 @@ CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/Sour
 r0
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o /Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s345453380.754197
-e345453380.962308
+s345561101.394751
+e345561101.608405
 r1
 xCompileC
 xbuild/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o
@@ -3964,7 +3963,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@75"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m345453380#345453380#0(0"0(0#0#67"/Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m8597428128#1232"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o0#
+lSLF07#2@75"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m345561101#345561101#0(0"0(0#0#67"/Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m8614464320#1232"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/SourceListItem.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/SourceListItem.o0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s344684968.592989
@@ -3996,8 +3995,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@96"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m344616116#344616116#0(0"0(0#0#88"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m8625684352#1374"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/include" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources" -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_AppDelegate.m" -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o"0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s345453379.344441
-e345453380.753980
+s345561101.091882
+e345561101.394652
 r1
 xCompileC
 xbuild/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o
@@ -4006,7 +4005,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@82"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m345453379#345453380#0(0"0(0#0#74"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m8608911072#1246"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o0#
+lSLF07#2@82"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m345561101#345561101#0(0"0(0#0#74"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m3907004821821025792#1246"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_AppDelegate.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/_Organize_AppDelegate.o0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s344619413.821265
@@ -4038,8 +4037,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@79"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m344616116#344616116#0(0"0(0#0#71"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m8626115744#1340"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/include" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64" "-I/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources" -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-dtivefhawueretdbdjnkaooefzud/_Organize_Prefix.pch -c "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/main.m" -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o"0#
 
 CCompileC build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o /Users/stephanbansemer/Desktop/2Organize/2Organize/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s345453379.305022
-e345453380.591004
+s345561100.825717
+e345561101.091782
 r1
 xCompileC
 xbuild/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o
@@ -4048,7 +4047,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/main.m345453379#345453380#0(0"0(0#0#57"/Users/stephanbansemer/Desktop/2Organize/2Organize/main.m8610765568#1212"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/main.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o0#
+lSLF07#2@65"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/main.m345561100#345561101#0(0"0(0#0#57"/Users/stephanbansemer/Desktop/2Organize/2Organize/main.m8603499712#1212"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -include /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch -c /Users/stephanbansemer/Desktop/2Organize/2Organize/main.m -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/main.o0#
 
 CCompileXIB "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/English.lproj/MainMenu.xib"
 s344758956.524041
@@ -5638,7 +5637,17 @@ x/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_Data
 lSLF07#2@104"Compile /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel344616116#344616116#0(0"0(0#0#96"/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel8626238656#370"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    "/Developer 3/usr/bin/momc" -XD_MOMC_TARGET_VERSION=10.6 "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/_Organize_DataModel.xcdatamodel" "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom"0#
 
 CDataModelCompile /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel
+s345561100.802349
+e345561101.103905
 r0
+xDataModelCompile
+x/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom
+x/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel
+o/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Project.mailboxes: error: Project.mailboxes -- destination entity can't be nil in relationships 
+o/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Project.mailboxes: warning: Project.mailboxes -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 
+o/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Mail.url: error: Mail.url -- property name conflicts with a property inherited from Contact 
+o/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Document.url: error: Document.url -- property name conflicts with a property inherited from Contact 
+lSLF07#2@90"Compile /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel345561100#345561101#0(821"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Project.mailboxes: error: Project.mailboxes -- destination entity can't be nil in relationships /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Project.mailboxes: warning: Project.mailboxes -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Mail.url: error: Mail.url -- property name conflicts with a property inherited from Contact /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel:Document.url: error: Document.url -- property name conflicts with a property inherited from Contact 4(4@70"Project.mailboxes -- destination entity can't be nil in relationships 345561101#18446744073709551615#0#0(6@82"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel345560964#0#0#0#0#0"0(22@169"Project.mailboxes -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 345561101#18446744073709551615#0#0(6@82"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel345560964#0#0#0#0#0"0(4@75"Mail.url -- property name conflicts with a property inherited from Contact 345561101#18446744073709551615#0#0(6@82"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel345560964#0#0#0#0#0"0(4@79"Document.url -- property name conflicts with a property inherited from Contact 345561101#18446744073709551615#0#0(6@82"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel345560964#0#0#0#0#0"0(0#0#82"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel8608859712#322"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    "/Developer 3/usr/bin/momc" -XD_MOMC_TARGET_VERSION=10.6 /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_DataModel.xcdatamodel /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/Resources/_Organize_DataModel.mom1#
 
 CLd "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize" normal x86_64
 s344684968.884413
@@ -5671,14 +5680,14 @@ xx86_64
 lSLF07#2@120"Link /Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize344616608#344616609#0(0"0(0#0#0"8618325696#700"    cd "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    "/Developer 3/usr/bin/gcc-4.2" -arch x86_64 -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" "-L/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" "-F/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug" -filelist "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/2Organize.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/stephanbansemer/Downloads/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize"0#
 
 CLd /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize normal x86_64
-s345453381.123771
-e345453382.536146
+s345561101.608499
+e345561102.395245
 r1
 xLd
 x/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize
 xnormal
 xx86_64
-lSLF07#2@106"Link /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize345453381#345453382#0(0"0(0#0#0"8601056384#714"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv MACOSX_DEPLOYMENT_TARGET 10.6    "/Developer 3/usr/bin/gcc-4.2" -arch x86_64 -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -L/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -filelist /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/2Organize.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework AddressBook -framework CalendarStore -framework Message -framework ScriptingBridge -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize0#
+lSLF07#2@106"Link /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize345561101#345561102#0(0"0(0#0#0"8609288800#734"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv MACOSX_DEPLOYMENT_TARGET 10.6    "/Developer 3/usr/bin/gcc-4.2" -arch x86_64 -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -L/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -filelist /Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/Objects-normal/x86_64/2Organize.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework AddressBook -framework CalendarStore -framework Message -framework ScriptingBridge -framework CoreData -o /Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/2Organize.app/Contents/MacOS/2Organize0#
 
 CProcessInfoPlistFile "/Users/stephanbansemer/Desktop/2Organize/2Organize Datenmodell/2Organize Datenmodell/2Organize/build/Debug/2Organize.app/Contents/Info.plist" _Organize-Info.plist
 s344629792.302342
@@ -5708,8 +5717,8 @@ CProcessPCH /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode
 r0
 
 CProcessPCH /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch.gch _Organize_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s345453353.369634
-e345453379.304512
+s345561092.661540
+e345561100.802148
 r1
 xProcessPCH
 x/var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch.gch
@@ -5718,7 +5727,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@31"Precompile _Organize_Prefix.pch345453353#345453379#0(0"0(0#0#71"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_Prefix.pch6874034999492962304#1104"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -c /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_Prefix.pch -o /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch.gch0#
+lSLF07#2@31"Precompile _Organize_Prefix.pch345561092#345561100#0(0"0(0#0#71"/Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_Prefix.pch6874034999492962304#1104"    cd /Users/stephanbansemer/Desktop/2Organize/2Organize    setenv LANG en_US.US-ASCII    "/Developer 3/usr/bin/gcc-4.2" -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3/SDKs/MacOSX10.6.sdk" -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/2Organize.hmap -F/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/Debug/include -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources/x86_64 -I/Users/stephanbansemer/Desktop/2Organize/2Organize/build/2Organize.build/Debug/2Organize.build/DerivedSources -c /Users/stephanbansemer/Desktop/2Organize/2Organize/_Organize_Prefix.pch -o /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-chmablmxfgprancxvgyrzjlnoprb/_Organize_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/yI/yIRcbcbC2RWjhE+8ZS02iU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/_Organize_Prefix-ctlqgdeiakdzkvbxwcltyyebzmii/_Organize_Prefix.pch.gch _Organize_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s344619403.800025
