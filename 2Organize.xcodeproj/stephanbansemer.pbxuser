@@ -41,8 +41,8 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 345561084;
-			PBXWorkspaceStateSaveDate = 345561084;
+			PBXPerProjectTemplateStateSaveDate = 345563265;
+			PBXWorkspaceStateSaveDate = 345563265;
 		};
 		perUserProjectItems = {
 			BB0F9E2A148A7E26002790FE /* PBXTextBookmark */ = BB0F9E2A148A7E26002790FE /* PBXTextBookmark */;
@@ -57,9 +57,9 @@
 			BB0F9F60148BABC1002790FE /* PBXBookmark */ = BB0F9F60148BABC1002790FE /* PBXBookmark */;
 			BB0F9F61148BABC1002790FE /* PBXBookmark */ = BB0F9F61148BABC1002790FE /* PBXBookmark */;
 			BBBBABE31498D81200F1FF63 /* XDModelBookmark */ = BBBBABE31498D81200F1FF63 /* XDModelBookmark */;
+			BBC0B1771498E08500BEE1B8 /* XDModelBookmark */ = BBC0B1771498E08500BEE1B8 /* XDModelBookmark */;
 			BBF7B2D614973E500020541C /* PBXTextBookmark */ = BBF7B2D614973E500020541C /* PBXTextBookmark */;
 			BBF7B2D714973E500020541C /* PBXTextBookmark */ = BBF7B2D714973E500020541C /* PBXTextBookmark */;
-			BBF7B2D914973E500020541C /* XDModelBookmark */ = BBF7B2D914973E500020541C /* XDModelBookmark */;
 			BBFACE7C148CF0EA009E78E8 /* PBXBookmark */ = BBFACE7C148CF0EA009E78E8 /* PBXBookmark */;
 		};
 		sourceControlManager = BB732E4A147A32E00075FB86 /* Source Control */;
@@ -122,8 +122,8 @@
 						_percentageOfCollapsedView = 0;
 						isCollapsed = yes;
 						sizes = (
-							"{{0, 0}, {227, 218}}",
-							"{{232, 0}, {456, 218}}",
+							"{{0, 0}, {227, 220}}",
+							"{{232, 0}, {456, 220}}",
 						);
 					};
 				};
@@ -388,6 +388,11 @@
 		isa = XDModelBookmark;
 		fRef = 770B37EC0679A11B001EADE2 /* _Organize_DataModel.xcdatamodel */;
 		fallbackIsa = PBXBookmark;
+	};
+	BBC0B1771498E08500BEE1B8 /* XDModelBookmark */ = {
+		isa = XDModelBookmark;
+		fRef = 770B37EC0679A11B001EADE2 /* _Organize_DataModel.xcdatamodel */;
+		fallbackIsa = PBXBookmark;
 		uiCtxt = {
 			UIContextForDetailArea = {
 				_indexOfSelectedPane = 0;
@@ -442,8 +447,8 @@
 					_percentageOfCollapsedView = 0;
 					isCollapsed = yes;
 					sizes = (
-						"{{0, 0}, {227, 218}}",
-						"{{232, 0}, {456, 218}}",
+						"{{0, 0}, {227, 220}}",
+						"{{232, 0}, {456, 220}}",
 					);
 				};
 			};
@@ -566,11 +571,6 @@
 		rType = 0;
 		vrLen = 1083;
 		vrLoc = 0;
-	};
-	BBF7B2D914973E500020541C /* XDModelBookmark */ = {
-		isa = XDModelBookmark;
-		fRef = 770B37EC0679A11B001EADE2 /* _Organize_DataModel.xcdatamodel */;
-		fallbackIsa = PBXBookmark;
 	};
 	BBFACE7C148CF0EA009E78E8 /* PBXBookmark */ = {
 		isa = PBXBookmark;
