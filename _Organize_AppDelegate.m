@@ -25,42 +25,44 @@
 	
 	sourceListItems = [[NSMutableArray alloc] init];
 	
-	//Set up the "Library" parent item and children
-	SourceListItem *libraryItem = [SourceListItem itemWithTitle:@"ITEMS" identifier:@"library"];
-	SourceListItem *musicItem = [SourceListItem itemWithTitle:@"Music" identifier:@"music"];
-	[musicItem setIcon:[NSImage imageNamed:@"Item.png"]];
-	SourceListItem *moviesItem = [SourceListItem itemWithTitle:@"Movies" identifier:@"movies"];
-	[moviesItem setIcon:[NSImage imageNamed:@"Item.png"]];
-	SourceListItem *podcastsItem = [SourceListItem itemWithTitle:@"Podcasts" identifier:@"podcasts"];
-	[podcastsItem setIcon:[NSImage imageNamed:@"Item.png"]];
-	[podcastsItem setBadgeValue:10000];
-	SourceListItem *audiobooksItem = [SourceListItem itemWithTitle:@"Audiobooks" identifier:@"audiobooks"];
-	[audiobooksItem setIcon:[NSImage imageNamed:@"Item.png"]];
-	[libraryItem setChildren:[NSArray arrayWithObjects:musicItem, moviesItem, podcastsItem,
-							  audiobooksItem, nil]];
+	//Set up the "Topic1" parent item and children
+	SourceListItem *Topic1 = [SourceListItem itemWithTitle:@"Topic1" identifier:@"Topic1"];
+    
+	SourceListItem *Topic1Sub1 = [SourceListItem itemWithTitle:@"Topic1Sub1" identifier:@"Topic1Sub1"];
+	SourceListItem *Topic1Sub2 = [SourceListItem itemWithTitle:@"Topic1Sub2" identifier:@"Topic1Sub2"];
+	SourceListItem *Topic1Sub3 = [SourceListItem itemWithTitle:@"Topic1Sub3" identifier:@"Topic1Sub3"];
+	SourceListItem *Topic1Sub4 = [SourceListItem itemWithTitle:@"Topic1Sub4" identifier:@"Topic1Sub4"];
+	[Topic1Sub1 setIcon:[NSImage imageNamed:@"Item.png"]];
+	[Topic1Sub2 setIcon:[NSImage imageNamed:@"Item.png"]];
+	[Topic1Sub3 setIcon:[NSImage imageNamed:@"Item.png"]];
+	[Topic1Sub4 setIcon:[NSImage imageNamed:@"Item.png"]];
+    [Topic1Sub3 setBadgeValue:10];
+    
+	[Topic1 setChildren:[NSArray arrayWithObjects:Topic1Sub1, Topic1Sub2, Topic1Sub3,Topic1Sub4, nil]];
 		
-	//Set up the "Playlists" parent item and children
-	SourceListItem *playlistsItem = [SourceListItem itemWithTitle:@"SOMETHING ELSE" identifier:@"playlists"];
-	SourceListItem *playlist1Item = [SourceListItem itemWithTitle:@"Playlist1" identifier:@"playlist1"];
+	//Set up the "Topic2" parent item and children
+	SourceListItem *Topic2 = [SourceListItem itemWithTitle:@"Topic2" identifier:@"Topic2"];
 	
-	//Create a second-level group to demonstrate
-	SourceListItem *playlist2Item = [SourceListItem itemWithTitle:@"Playlist2" identifier:@"playlist2"];
-	SourceListItem *playlist3Item = [SourceListItem itemWithTitle:@"Playlist3" identifier:@"playlist3"];
-	[playlist1Item setIcon:[NSImage imageNamed:@"Item.png"]];
-	[playlist2Item setIcon:[NSImage imageNamed:@"Item.png"]];
-	[playlist3Item setIcon:[NSImage imageNamed:@"Item.png"]];
+	//Create a second-level group to Topic2
+	SourceListItem *Topic2Sub1 = [SourceListItem itemWithTitle:@"Topic2Sub1" identifier:@"Topic2Sub1"];
+	SourceListItem *Topic2Sub2 = [SourceListItem itemWithTitle:@"Topic2Sub2" identifier:@"Topic2Sub2"];
+	SourceListItem *Topic2Sub3 = [SourceListItem itemWithTitle:@"Topic2Sub3" identifier:@"Topic2Sub3"];
+	[Topic2Sub1 setIcon:[NSImage imageNamed:@"Item.png"]];
+	[Topic2Sub2 setIcon:[NSImage imageNamed:@"Item.png"]];
+	[Topic2Sub3 setIcon:[NSImage imageNamed:@"Item.png"]];
 	
-	SourceListItem *playlistGroup = [SourceListItem itemWithTitle:@"Playlist Group" identifier:@"playlistgroup"];
-	SourceListItem *playlistGroupItem = [SourceListItem itemWithTitle:@"Child Playlist" identifier:@"childplaylist"];
-	[playlistGroup setIcon:[NSImage imageNamed:@"Folder.png"]];
-	[playlistGroupItem setIcon:[NSImage imageNamed:@"Item.png"]];
-	[playlistGroup setChildren:[NSArray arrayWithObject:playlistGroupItem]];
+	SourceListItem *Topic2SubGroup1 = [SourceListItem itemWithTitle:@"Topic2SubGroup1" identifier:@"Topic2SubGroup1"];
+	SourceListItem *Topic2SubGroup1Sub1 = [SourceListItem itemWithTitle:@"Topic2SubGroup1Sub1" identifier:@"Topic2SubGroup1Sub1"];
+    
+	[Topic2SubGroup1 setIcon:[NSImage imageNamed:@"Folder.png"]];
+	[Topic2SubGroup1Sub1 setIcon:[NSImage imageNamed:@"Item.png"]];
+	[Topic2SubGroup1 setChildren:[NSArray arrayWithObject:Topic2SubGroup1Sub1]];
 	
-	[playlistsItem setChildren:[NSArray arrayWithObjects:playlist1Item, playlistGroup,playlist2Item,
-								playlist3Item, nil]];
+	[Topic2 setChildren:[NSArray arrayWithObjects:Topic2Sub1, Topic2SubGroup1,Topic2Sub2,
+								Topic2Sub3, nil]];
 	
-	[sourceListItems addObject:libraryItem];
-	[sourceListItems addObject:playlistsItem];
+	[sourceListItems addObject:Topic1];
+	[sourceListItems addObject:Topic2];
 	
 	[sourceList reloadData];
 }
@@ -152,9 +154,11 @@
 
 - (BOOL)sourceList:(PXSourceList*)aSourceList isGroupAlwaysExpanded:(id)group
 {
-	if([[group identifier] isEqualToString:@"library"])
+	if([[group identifier] isEqualToString:@"Topic1"])
 		return YES;
-	
+    else if([[group identifier] isEqualToString:@"Topic2"])
+		return YES;
+
 	return NO;
 }
 
