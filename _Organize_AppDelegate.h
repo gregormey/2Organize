@@ -24,6 +24,8 @@
 	IBOutlet NSTextField *selectedItemLabel;
 	NSMutableArray *sourceListItems;
 	//<--
+    IBOutlet NSDrawer *archivDrawer;
+    IBOutlet NSTabView *tabView;
 }
 
 @property (nonatomic, retain) IBOutlet NSWindow *window;
@@ -33,5 +35,7 @@
 @property (nonatomic, retain, readonly) NSManagedObjectContext *managedObjectContext;
 
 - (IBAction)saveAction:sender;
+- (IBAction)toggleArchivDrawer:(id)sender;
+- (IBAction)tabSelect:sender;
 
 @end

@@ -67,6 +67,25 @@
 	[sourceList reloadData];
 }
 
+#pragma mark Segment Control
+- (IBAction)tabSelect:sender
+{
+    //NSLog(@"Segment control was clicked: segment %ld", [sender selectedSegment]);
+    [tabView selectTabViewItemAtIndex:[sender selectedSegment]];
+}
+
+#pragma mark Drawers
+- (void)toggleArchivDrawer:(id)sender {
+    [archivDrawer setMinContentSize:NSMakeSize(328, 220)];
+    [archivDrawer setMaxContentSize:NSMakeSize(328, 220)];
+    NSDrawerState state = [archivDrawer state];
+    if (NSDrawerOpeningState == state || NSDrawerOpenState == state) {
+        [archivDrawer close];
+    } else {
+        [archivDrawer openOnEdge:NSMaxXEdge];
+    }
+}
+
 #pragma mark -
 #pragma mark Source List Data Source Methods
 
@@ -386,6 +405,7 @@
 - (void)dealloc {
 
     [window release];
+    [archivDrawer release];
     [managedObjectContext release];
     [persistentStoreCoordinator release];
     [managedObjectModel release];
