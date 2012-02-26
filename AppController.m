@@ -26,9 +26,25 @@
     //Is preferenceController nil?
     if(!preferenceController){
         preferenceController = [[PreferenceController alloc] init];
-        NSLog(@"showing %@", preferenceController);
-        [preferenceController showWindow:self];
     }
+    
+    NSLog(@"showing %@", preferenceController);
+    [preferenceController showWindow:self];
+}
+
++ (void)initialize
+{
+    //Create a dictionary
+    NSMutableDictionary *defaultValues = [NSMutableDictionary dictionary];
+    
+    //Put defaults in the dictionary 
+    [defaultValues setObject:[NSNumber numberWithBool:YES] forKey: MAIL_USE_TLS];
+    [defaultValues setObject:[NSString string] forKey:MAIL_SERVER];
+    [defaultValues setObject:[NSString string] forKey:MAIL_PORT];
+    [defaultValues setObject:[NSString string] forKey:MAIL_PASSWORD];
+    [defaultValues setObject:[NSString string] forKey:MAIL_USER];
+    
+    NSLog(@"registered defaults: %@",defaultValues);
 }
 
 @end

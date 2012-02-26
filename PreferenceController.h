@@ -8,6 +8,14 @@
 
 #import <Cocoa/Cocoa.h>
 
+extern NSString * const MAIL_SERVER;
+extern NSString * const MAIL_PORT;
+extern NSString * const MAIL_PASSWORD;
+extern NSString * const MAIL_USE_TLS;
+extern NSString * const MAIL_USE_USER;
+extern NSString * const MAIL_USER;
+
+
 @interface PreferenceController : NSWindowController {
     IBOutlet NSTextField *server;
     IBOutlet NSTextField *port;
