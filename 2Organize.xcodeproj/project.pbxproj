@@ -118,6 +118,9 @@
 		BB73B3AC148A6DF900C0CCC1 /* view_month.png in Resources */ = {isa = PBXBuildFile; fileRef = BB73B353148A6DF900C0CCC1 /* view_month.png */; };
 		BB73B3AD148A6DF900C0CCC1 /* view_week.png in Resources */ = {isa = PBXBuildFile; fileRef = BB73B354148A6DF900C0CCC1 /* view_week.png */; };
 		BBF7B2C61497373C0020541C /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BBF7B2C51497373C0020541C /* CoreData.framework */; };
+		F5D4496514FA8F7F00E8DC64 /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5D4496414FA8F7F00E8DC64 /* AppController.m */; };
+		F5D4496914FA943B00E8DC64 /* PreferenceController.m in Sources */ = {isa = PBXBuildFile; fileRef = F5D4496814FA943B00E8DC64 /* PreferenceController.m */; };
+		F5D4496B14FA958C00E8DC64 /* Preferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5D4496A14FA958C00E8DC64 /* Preferences.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -244,6 +247,11 @@
 		BB73B353148A6DF900C0CCC1 /* view_month.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = view_month.png; sourceTree = "<group>"; };
 		BB73B354148A6DF900C0CCC1 /* view_week.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = view_week.png; sourceTree = "<group>"; };
 		BBF7B2C51497373C0020541C /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		F5D4496314FA8F7F00E8DC64 /* AppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppController.h; sourceTree = "<group>"; };
+		F5D4496414FA8F7F00E8DC64 /* AppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppController.m; sourceTree = "<group>"; };
+		F5D4496714FA943B00E8DC64 /* PreferenceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreferenceController.h; sourceTree = "<group>"; };
+		F5D4496814FA943B00E8DC64 /* PreferenceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferenceController.m; sourceTree = "<group>"; };
+		F5D4496A14FA958C00E8DC64 /* Preferences.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Preferences.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -273,6 +281,10 @@
 				BB0F9E4A148A7F70002790FE /* SourceListItem.h */,
 				BB0F9E4B148A7F70002790FE /* SourceListItem.m */,
 				BB73B2F5148A6DE600C0CCC1 /* PXSourceList */,
+				F5D4496314FA8F7F00E8DC64 /* AppController.h */,
+				F5D4496414FA8F7F00E8DC64 /* AppController.m */,
+				F5D4496714FA943B00E8DC64 /* PreferenceController.h */,
+				F5D4496814FA943B00E8DC64 /* PreferenceController.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -337,6 +349,7 @@
 				8D1107310486CEB800E47090 /* _Organize-Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 				2F7446970DB6B7EA00F9684A /* MainMenu.xib */,
+				F5D4496A14FA958C00E8DC64 /* Preferences.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -625,6 +638,7 @@
 				BB5EE4E514AC5DE000955F8C /* search_todo_hl.tiff in Resources */,
 				BB5EE4E614AC5DE000955F8C /* Thumb Tack.png in Resources */,
 				BB5EE4E814AC625900955F8C /* Kontakte dark.tif in Resources */,
+				F5D4496B14FA958C00E8DC64 /* Preferences.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -641,6 +655,8 @@
 				BB73B2FA148A6DE600C0CCC1 /* PXSourceList.m in Sources */,
 				BB0F9E4C148A7F70002790FE /* SourceListItem.m in Sources */,
 				BB6FBE2B14B1897C00C23E5B /* Project.m in Sources */,
+				F5D4496514FA8F7F00E8DC64 /* AppController.m in Sources */,
+				F5D4496914FA943B00E8DC64 /* PreferenceController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
