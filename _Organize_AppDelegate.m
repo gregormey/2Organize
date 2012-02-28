@@ -36,7 +36,7 @@
 	[Topic1Sub2 setIcon:[NSImage imageNamed:@"Item.png"]];
 	[Topic1Sub3 setIcon:[NSImage imageNamed:@"Item.png"]];
 	[Topic1Sub4 setIcon:[NSImage imageNamed:@"Item.png"]];
-    [Topic1Sub3 setBadgeValue:10];
+    [Topic1Sub3 setBadgeValue:20];
     
 	[Topic1 setChildren:[NSArray arrayWithObjects:Topic1Sub1, Topic1Sub2, Topic1Sub3,Topic1Sub4, nil]];
 		
