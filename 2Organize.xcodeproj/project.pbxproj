@@ -26,7 +26,6 @@
 		BB5EE4E514AC5DE000955F8C /* search_todo_hl.tiff in Resources */ = {isa = PBXBuildFile; fileRef = BB5EE4E314AC5DDF00955F8C /* search_todo_hl.tiff */; };
 		BB5EE4E614AC5DE000955F8C /* Thumb Tack.png in Resources */ = {isa = PBXBuildFile; fileRef = BB5EE4E414AC5DDF00955F8C /* Thumb Tack.png */; };
 		BB5EE4E814AC625900955F8C /* Kontakte dark.tif in Resources */ = {isa = PBXBuildFile; fileRef = BB5EE4E714AC625800955F8C /* Kontakte dark.tif */; };
-		BB6FBE2B14B1897C00C23E5B /* Project.m in Sources */ = {isa = PBXBuildFile; fileRef = BB6FBE2A14B1897C00C23E5B /* Project.m */; };
 		BB73B2FA148A6DE600C0CCC1 /* PXSourceList.m in Sources */ = {isa = PBXBuildFile; fileRef = BB73B2F7148A6DE600C0CCC1 /* PXSourceList.m */; };
 		BB73B355148A6DF900C0CCC1 /* Folder.png in Resources */ = {isa = PBXBuildFile; fileRef = BB73B2FC148A6DF900C0CCC1 /* Folder.png */; };
 		BB73B356148A6DF900C0CCC1 /* Item.png in Resources */ = {isa = PBXBuildFile; fileRef = BB73B2FD148A6DF900C0CCC1 /* Item.png */; };
@@ -151,8 +150,6 @@
 		BB5EE4E314AC5DDF00955F8C /* search_todo_hl.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = search_todo_hl.tiff; sourceTree = "<group>"; };
 		BB5EE4E414AC5DDF00955F8C /* Thumb Tack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Thumb Tack.png"; sourceTree = "<group>"; };
 		BB5EE4E714AC625800955F8C /* Kontakte dark.tif */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = "Kontakte dark.tif"; sourceTree = "<group>"; };
-		BB6FBE2914B1897C00C23E5B /* Project.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Project.h; sourceTree = "<group>"; };
-		BB6FBE2A14B1897C00C23E5B /* Project.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Project.m; sourceTree = "<group>"; };
 		BB73B2F6148A6DE600C0CCC1 /* PXSourceList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PXSourceList.h; sourceTree = "<group>"; };
 		BB73B2F7148A6DE600C0CCC1 /* PXSourceList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PXSourceList.m; sourceTree = "<group>"; };
 		BB73B2F8148A6DE600C0CCC1 /* PXSourceListDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PXSourceListDataSource.h; sourceTree = "<group>"; };
@@ -274,8 +271,6 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				BB6FBE2914B1897C00C23E5B /* Project.h */,
-				BB6FBE2A14B1897C00C23E5B /* Project.m */,
 				77C8280B06725ACE000B614F /* _Organize_AppDelegate.h */,
 				77C8280C06725ACE000B614F /* _Organize_AppDelegate.m */,
 				BB0F9E4A148A7F70002790FE /* SourceListItem.h */,
@@ -654,7 +649,6 @@
 				770B37ED0679A11B001EADE2 /* _Organize_DataModel.xcdatamodel in Sources */,
 				BB73B2FA148A6DE600C0CCC1 /* PXSourceList.m in Sources */,
 				BB0F9E4C148A7F70002790FE /* SourceListItem.m in Sources */,
-				BB6FBE2B14B1897C00C23E5B /* Project.m in Sources */,
 				F5D4496514FA8F7F00E8DC64 /* AppController.m in Sources */,
 				F5D4496914FA943B00E8DC64 /* PreferenceController.m in Sources */,
 			);
