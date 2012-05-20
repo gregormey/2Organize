@@ -21,6 +21,8 @@
 
 - (void)awakeFromNib
 {
+    
+    NSLog(@"managedObjectContext[1]: %@",managedObjectContext);
 	[selectedItemLabel setStringValue:@"(none)"];
 	
 	sourceListItems = [[NSMutableArray alloc] init];
