@@ -80,7 +80,7 @@
 	[sourceListItems addObject:Topic1];
 	[sourceListItems addObject:Topic2];
 	[sourceListItems addObject:Topic3];
-	
+	NSLog("x");
 	[sourceList reloadData];
 }
 
