@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archive type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="7.10">
 	<data>
-		<int key="IBDocument.SystemTarget">1060</int>
-		<string key="IBDocument.SystemVersion">10K549</string>
-		<string key="IBDocument.InterfaceBuilderVersion">1938</string>
-		<string key="IBDocument.AppKitVersion">1038.36</string>
-		<string key="IBDocument.HIToolboxVersion">461.00</string>
+		<int key="IBDocument.SystemTarget">1070</int>
+		<string key="IBDocument.SystemVersion">11E53</string>
+		<string key="IBDocument.InterfaceBuilderVersion">2182</string>
+		<string key="IBDocument.AppKitVersion">1138.47</string>
+		<string key="IBDocument.HIToolboxVersion">569.00</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaPlugin</string>
-			<string key="NS.object.0">1938</string>
+			<string key="NS.object.0">2182</string>
 		</object>
 		<object class="NSArray" key="IBDocument.IntegratedClassDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -73,6 +73,7 @@
 				<object class="NSMutableString" key="NSViewClass">
 					<characters key="NS.bytes">View</characters>
 				</object>
+				<nil key="NSUserInterfaceItemIdentifier"/>
 				<string key="NSWindowContentMinSize">{892, 615}</string>
 				<object class="NSView" key="NSWindowView" id="823886803">
 					<reference key="NSNextResponder"/>
@@ -320,9 +321,14 @@
 																<int key="NSColorSpace">6</int>
 																<string key="NSCatalogName">System</string>
 																<string key="NSColorName">_sourceListBackgroundColor</string>
-																<object class="NSColor" key="NSColor">
-																	<int key="NSColorSpace">1</int>
-																	<bytes key="NSRGB">MC44MzkyMTU2OTU5IDAuODY2NjY2Njc0NiAwLjg5ODAzOTIyMTgAA</bytes>
+																<object class="NSColor" key="NSColor" id="4652295">
+																	<int key="NSColorSpace">6</int>
+																	<string key="NSCatalogName">System</string>
+																	<string key="NSColorName">alternateSelectedControlColor</string>
+																	<object class="NSColor" key="NSColor">
+																		<int key="NSColorSpace">1</int>
+																		<bytes key="NSRGB">MCAwIDEAA</bytes>
+																	</object>
 																</object>
 															</object>
 															<object class="NSColor" key="NSGridColor" id="363463512">
@@ -344,6 +350,7 @@
 															<bool key="NSAllowsTypeSelect">YES</bool>
 															<int key="NSTableViewSelectionHighlightStyle">1</int>
 															<int key="NSTableViewDraggingDestinationStyle">1</int>
+															<int key="NSTableViewGroupRowStyle">1</int>
 															<float key="NSOutlineViewIndentationPerLevelKey">14</float>
 														</object>
 													</object>
@@ -383,7 +390,7 @@
 											<reference key="NSSuperview" ref="1030269662"/>
 											<reference key="NSWindow"/>
 											<reference key="NSNextKeyView" ref="305441431"/>
-											<int key="NSsFlags">562</int>
+											<int key="NSsFlags">133682</int>
 											<reference key="NSVScroller" ref="233089433"/>
 											<reference key="NSHScroller" ref="1059222102"/>
 											<reference key="NSContentView" ref="305441431"/>
@@ -453,7 +460,7 @@
 																<string>AXDescription</string>
 																<string>NSAccessibilityEncodedAttributesValueType</string>
 															</object>
-															<object class="NSMutableArray" key="dict.values">
+															<object class="NSArray" key="dict.values">
 																<bool key="EncodedWithXMLCoder">YES</bool>
 																<string>cancel</string>
 																<integer value="1"/>
@@ -674,6 +681,7 @@
 																				<int key="NSDraggingSourceMaskForNonLocal">0</int>
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewDraggingDestinationStyle">0</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																			</object>
 																		</object>
 																		<string key="NSFrame">{{1, 17}, {673, 542}}</string>
@@ -723,12 +731,11 @@
 																<string key="NSFrame">{{0, 20}, {675, 560}}</string>
 																<reference key="NSSuperview" ref="672304053"/>
 																<reference key="NSNextKeyView" ref="5917849"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="225543635"/>
 																<reference key="NSHScroller" ref="799064577"/>
 																<reference key="NSContentView" ref="5917849"/>
 																<reference key="NSHeaderClipView" ref="587640317"/>
-																<reference key="NSCornerView" ref="212654711"/>
 																<bytes key="NSScrollAmts">QSAAAEEgAABBmAAAQZgAAA</bytes>
 															</object>
 															<object class="NSButton" id="663169564">
@@ -876,7 +883,7 @@
 																										<string>dateStyle</string>
 																										<string>formatterBehavior</string>
 																									</object>
-																									<object class="NSMutableArray" key="dict.values">
+																									<object class="NSArray" key="dict.values">
 																										<bool key="EncodedWithXMLCoder">YES</bool>
 																										<integer value="1"/>
 																										<integer value="1040"/>
@@ -960,6 +967,7 @@
 																				<int key="NSDraggingSourceMaskForNonLocal">0</int>
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewDraggingDestinationStyle">0</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																			</object>
 																		</object>
 																		<string key="NSFrame">{{1, 17}, {673, 542}}</string>
@@ -1009,12 +1017,11 @@
 																<string key="NSFrame">{{0, 20}, {675, 560}}</string>
 																<reference key="NSSuperview" ref="1018956568"/>
 																<reference key="NSNextKeyView" ref="1033178247"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="596719641"/>
 																<reference key="NSHScroller" ref="90600698"/>
 																<reference key="NSContentView" ref="1033178247"/>
 																<reference key="NSHeaderClipView" ref="366363641"/>
-																<reference key="NSCornerView" ref="279578220"/>
 																<bytes key="NSScrollAmts">QSAAAEEgAABBmAAAQZgAAA</bytes>
 															</object>
 															<object class="NSButton" id="125976328">
@@ -1128,7 +1135,7 @@
 																										<string>dateStyle</string>
 																										<string>formatterBehavior</string>
 																									</object>
-																									<object class="NSMutableArray" key="dict.values">
+																									<object class="NSArray" key="dict.values">
 																										<bool key="EncodedWithXMLCoder">YES</bool>
 																										<integer value="1"/>
 																										<integer value="1040"/>
@@ -1172,7 +1179,7 @@
 																										<string>formatterBehavior</string>
 																										<string>timeStyle</string>
 																									</object>
-																									<object class="NSMutableArray" key="dict.values">
+																									<object class="NSArray" key="dict.values">
 																										<bool key="EncodedWithXMLCoder">YES</bool>
 																										<integer value="0"/>
 																										<integer value="1040"/>
@@ -1217,7 +1224,7 @@
 																										<string>formatterBehavior</string>
 																										<string>timeStyle</string>
 																									</object>
-																									<object class="NSMutableArray" key="dict.values">
+																									<object class="NSArray" key="dict.values">
 																										<bool key="EncodedWithXMLCoder">YES</bool>
 																										<integer value="0"/>
 																										<integer value="1040"/>
@@ -1302,6 +1309,7 @@
 																				<int key="NSDraggingSourceMaskForNonLocal">0</int>
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewDraggingDestinationStyle">0</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																			</object>
 																		</object>
 																		<string key="NSFrame">{{1, 17}, {673, 542}}</string>
@@ -1351,12 +1359,11 @@
 																<string key="NSFrame">{{0, 20}, {675, 560}}</string>
 																<reference key="NSSuperview" ref="596872939"/>
 																<reference key="NSNextKeyView" ref="899819579"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="611101282"/>
 																<reference key="NSHScroller" ref="294307406"/>
 																<reference key="NSContentView" ref="899819579"/>
 																<reference key="NSHeaderClipView" ref="251734702"/>
-																<reference key="NSCornerView" ref="908275962"/>
 																<bytes key="NSScrollAmts">QSAAAEEgAABBmAAAQZgAAA</bytes>
 															</object>
 															<object class="NSButton" id="655446766">
@@ -1471,10 +1478,7 @@
 																					<int key="NSColorSpace">6</int>
 																					<string key="NSCatalogName">System</string>
 																					<string key="NSColorName">_sourceListBackgroundColor</string>
-																					<object class="NSColor" key="NSColor">
-																						<int key="NSColorSpace">1</int>
-																						<bytes key="NSRGB">MC44MzkyMTU2OTU5IDAuODY2NjY2Njc0NiAwLjg5ODAzOTIyMTgAA</bytes>
-																					</object>
+																					<reference key="NSColor" ref="4652295"/>
 																				</object>
 																				<reference key="NSGridColor" ref="363463512"/>
 																				<double key="NSRowHeight">20</double>
@@ -1487,6 +1491,7 @@
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewSelectionHighlightStyle">1</int>
 																				<int key="NSTableViewDraggingDestinationStyle">1</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																				<float key="NSOutlineViewIndentationPerLevelKey">14</float>
 																			</object>
 																		</object>
@@ -1522,7 +1527,7 @@
 																<string key="NSFrame">{{0, 20}, {675, 560}}</string>
 																<reference key="NSSuperview" ref="734380632"/>
 																<reference key="NSNextKeyView" ref="224809424"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="682325925"/>
 																<reference key="NSHScroller" ref="755115568"/>
 																<reference key="NSContentView" ref="224809424"/>
@@ -1640,10 +1645,7 @@
 																					<int key="NSColorSpace">6</int>
 																					<string key="NSCatalogName">System</string>
 																					<string key="NSColorName">_sourceListBackgroundColor</string>
-																					<object class="NSColor" key="NSColor">
-																						<int key="NSColorSpace">1</int>
-																						<bytes key="NSRGB">MC44MzkyMTU2OTU5IDAuODY2NjY2Njc0NiAwLjg5ODAzOTIyMTgAA</bytes>
-																					</object>
+																					<reference key="NSColor" ref="4652295"/>
 																				</object>
 																				<reference key="NSGridColor" ref="363463512"/>
 																				<double key="NSRowHeight">20</double>
@@ -1656,6 +1658,7 @@
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewSelectionHighlightStyle">1</int>
 																				<int key="NSTableViewDraggingDestinationStyle">1</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																				<float key="NSOutlineViewIndentationPerLevelKey">14</float>
 																			</object>
 																		</object>
@@ -1691,7 +1694,7 @@
 																<string key="NSFrame">{{0, 20}, {675, 560}}</string>
 																<reference key="NSSuperview" ref="690699601"/>
 																<reference key="NSNextKeyView" ref="34911515"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="322552142"/>
 																<reference key="NSHScroller" ref="833975092"/>
 																<reference key="NSContentView" ref="34911515"/>
@@ -1944,7 +1947,7 @@
 																										<string>dateStyle</string>
 																										<string>formatterBehavior</string>
 																									</object>
-																									<object class="NSMutableArray" key="dict.values">
+																									<object class="NSArray" key="dict.values">
 																										<bool key="EncodedWithXMLCoder">YES</bool>
 																										<integer value="1"/>
 																										<integer value="1040"/>
@@ -2039,6 +2042,7 @@
 																				<int key="NSDraggingSourceMaskForNonLocal">0</int>
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewDraggingDestinationStyle">0</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																			</object>
 																		</object>
 																		<string key="NSFrame">{{1, 17}, {673, 542}}</string>
@@ -2093,7 +2097,7 @@
 																<reference key="NSSuperview" ref="347622920"/>
 																<reference key="NSWindow"/>
 																<reference key="NSNextKeyView" ref="445525807"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="841444587"/>
 																<reference key="NSHScroller" ref="317295719"/>
 																<reference key="NSContentView" ref="810858056"/>
@@ -2217,7 +2221,7 @@
 																										<string>dateStyle</string>
 																										<string>formatterBehavior</string>
 																									</object>
-																									<object class="NSMutableArray" key="dict.values">
+																									<object class="NSArray" key="dict.values">
 																										<bool key="EncodedWithXMLCoder">YES</bool>
 																										<integer value="1"/>
 																										<integer value="1040"/>
@@ -2301,6 +2305,7 @@
 																				<int key="NSDraggingSourceMaskForNonLocal">0</int>
 																				<bool key="NSAllowsTypeSelect">YES</bool>
 																				<int key="NSTableViewDraggingDestinationStyle">0</int>
+																				<int key="NSTableViewGroupRowStyle">1</int>
 																			</object>
 																		</object>
 																		<string key="NSFrame">{{1, 17}, {673, 542}}</string>
@@ -2350,12 +2355,11 @@
 																<string key="NSFrame">{{0, 20}, {675, 560}}</string>
 																<reference key="NSSuperview" ref="728605586"/>
 																<reference key="NSNextKeyView" ref="838258708"/>
-																<int key="NSsFlags">562</int>
+																<int key="NSsFlags">133682</int>
 																<reference key="NSVScroller" ref="1004243843"/>
 																<reference key="NSHScroller" ref="14821084"/>
 																<reference key="NSContentView" ref="838258708"/>
 																<reference key="NSHeaderClipView" ref="656544257"/>
-																<reference key="NSCornerView" ref="967142594"/>
 																<bytes key="NSScrollAmts">QSAAAEEgAABBmAAAQZgAAA</bytes>
 															</object>
 															<object class="NSButton" id="670537501">
@@ -2417,7 +2421,7 @@
 										<object class="NSSegmentedControl" id="486978121">
 											<reference key="NSNextResponder" ref="743107824"/>
 											<int key="NSvFlags">268</int>
-											<string key="NSFrame">{{8, 584}, {532, 25}}</string>
+											<string key="NSFrame">{{8, 586}, {532, 23}}</string>
 											<reference key="NSSuperview" ref="743107824"/>
 											<reference key="NSWindow"/>
 											<reference key="NSNextKeyView" ref="29037829"/>
@@ -2483,7 +2487,7 @@
 														<int key="NSSegmentItemImageScaling">0</int>
 													</object>
 												</object>
-												<int key="NSSegmentStyle">4</int>
+												<int key="NSSegmentStyle">6</int>
 											</object>
 										</object>
 										<object class="NSButton" id="42565627">
@@ -2531,7 +2535,8 @@
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1680, 1028}}</string>
 				<string key="NSMinSize">{892, 637}</string>
-				<string key="NSMaxSize">{1e+13, 1e+13}</string>
+				<string key="NSMaxSize">{10000000000000, 10000000000000}</string>
+				<bool key="NSWindowIsRestorable">YES</bool>
 			</object>
 			<object class="NSCustomView" id="40877223">
 				<reference key="NSNextResponder"/>
@@ -2582,7 +2587,7 @@
 											<string>AXDescription</string>
 											<string>NSAccessibilityEncodedAttributesValueType</string>
 										</object>
-										<object class="NSMutableArray" key="dict.values">
+										<object class="NSArray" key="dict.values">
 											<bool key="EncodedWithXMLCoder">YES</bool>
 											<string>cancel</string>
 											<integer value="1"/>
@@ -2682,6 +2687,7 @@
 										<bool key="NSAllowsTypeSelect">YES</bool>
 										<int key="NSTableViewSelectionHighlightStyle">1</int>
 										<int key="NSTableViewDraggingDestinationStyle">1</int>
+										<int key="NSTableViewGroupRowStyle">1</int>
 									</object>
 								</object>
 								<string key="NSFrame">{{1, 17}, {275, 413}}</string>
@@ -2736,12 +2742,11 @@
 						<reference key="NSSuperview" ref="40877223"/>
 						<reference key="NSWindow"/>
 						<reference key="NSNextKeyView" ref="512423302"/>
-						<int key="NSsFlags">18</int>
+						<int key="NSsFlags">133138</int>
 						<reference key="NSVScroller" ref="2644251"/>
 						<reference key="NSHScroller" ref="512423302"/>
 						<reference key="NSContentView" ref="603854196"/>
 						<reference key="NSHeaderClipView" ref="752110181"/>
-						<reference key="NSCornerView" ref="136421190"/>
 						<bytes key="NSScrollAmts">QSAAAEEgAABBgAAAQYAAAA</bytes>
 					</object>
 				</object>
@@ -5292,7 +5297,7 @@
 									<string>NSDisplayName</string>
 									<string>NSPredicateFormat</string>
 								</object>
-								<object class="NSMutableArray" key="dict.values">
+								<object class="NSArray" key="dict.values">
 									<bool key="EncodedWithXMLCoder">YES</bool>
 									<string>Search</string>
 									<string>title contains[c] $value</string>
@@ -7964,7 +7969,7 @@
 					<string>965.IBPluginDependency</string>
 					<string>969.IBPluginDependency</string>
 				</object>
-				<object class="NSMutableArray" key="dict.values">
+				<object class="NSArray" key="dict.values">
 					<bool key="EncodedWithXMLCoder">YES</bool>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -8343,73 +8348,6 @@
 					</object>
 				</object>
 				<object class="IBPartialClassDescription">
-					<string key="className">NSDocument</string>
-					<object class="NSMutableDictionary" key="actions">
-						<bool key="EncodedWithXMLCoder">YES</bool>
-						<object class="NSArray" key="dict.sortedKeys">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>printDocument:</string>
-							<string>revertDocumentToSaved:</string>
-							<string>runPageLayout:</string>
-							<string>saveDocument:</string>
-							<string>saveDocumentAs:</string>
-							<string>saveDocumentTo:</string>
-						</object>
-						<object class="NSMutableArray" key="dict.values">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>id</string>
-							<string>id</string>
-							<string>id</string>
-							<string>id</string>
-							<string>id</string>
-							<string>id</string>
-						</object>
-					</object>
-					<object class="NSMutableDictionary" key="actionInfosByName">
-						<bool key="EncodedWithXMLCoder">YES</bool>
-						<object class="NSArray" key="dict.sortedKeys">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>printDocument:</string>
-							<string>revertDocumentToSaved:</string>
-							<string>runPageLayout:</string>
-							<string>saveDocument:</string>
-							<string>saveDocumentAs:</string>
-							<string>saveDocumentTo:</string>
-						</object>
-						<object class="NSMutableArray" key="dict.values">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<object class="IBActionInfo">
-								<string key="name">printDocument:</string>
-								<string key="candidateClassName">id</string>
-							</object>
-							<object class="IBActionInfo">
-								<string key="name">revertDocumentToSaved:</string>
-								<string key="candidateClassName">id</string>
-							</object>
-							<object class="IBActionInfo">
-								<string key="name">runPageLayout:</string>
-								<string key="candidateClassName">id</string>
-							</object>
-							<object class="IBActionInfo">
-								<string key="name">saveDocument:</string>
-								<string key="candidateClassName">id</string>
-							</object>
-							<object class="IBActionInfo">
-								<string key="name">saveDocumentAs:</string>
-								<string key="candidateClassName">id</string>
-							</object>
-							<object class="IBActionInfo">
-								<string key="name">saveDocumentTo:</string>
-								<string key="candidateClassName">id</string>
-							</object>
-						</object>
-					</object>
-					<object class="IBClassDescriptionSource" key="sourceIdentifier">
-						<string key="majorKey">IBProjectSource</string>
-						<string key="minorKey">./Classes/NSDocument.h</string>
-					</object>
-				</object>
-				<object class="IBPartialClassDescription">
 					<string key="className">PXSourceList</string>
 					<string key="superclassName">NSOutlineView</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
@@ -8428,7 +8366,7 @@
 							<string>tabSelect:</string>
 							<string>toggleArchivDrawer:</string>
 						</object>
-						<object class="NSMutableArray" key="dict.values">
+						<object class="NSArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<string>id</string>
 							<string>id</string>
@@ -8443,7 +8381,7 @@
 							<string>tabSelect:</string>
 							<string>toggleArchivDrawer:</string>
 						</object>
-						<object class="NSMutableArray" key="dict.values">
+						<object class="NSArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<object class="IBActionInfo">
 								<string key="name">saveAction:</string>
@@ -8469,7 +8407,7 @@
 							<string>tabView</string>
 							<string>window</string>
 						</object>
-						<object class="NSMutableArray" key="dict.values">
+						<object class="NSArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<string>NSDrawer</string>
 							<string>NSTextField</string>
@@ -8488,7 +8426,7 @@
 							<string>tabView</string>
 							<string>window</string>
 						</object>
-						<object class="NSMutableArray" key="dict.values">
+						<object class="NSArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<object class="IBToOneOutletInfo">
 								<string key="name">archivDrawer</string>
@@ -8544,13 +8482,13 @@
 				<string>sl-icon-small_collection</string>
 				<string>view_week</string>
 			</object>
-			<object class="NSMutableArray" key="dict.values">
+			<object class="NSArray" key="dict.values">
 				<bool key="EncodedWithXMLCoder">YES</bool>
 				<string>{15, 15}</string>
 				<string>{16, 16}</string>
 				<string>{8, 8}</string>
-				<string>{9, 8}</string>
-				<string>{7, 2}</string>
+				<string>{11, 11}</string>
+				<string>{10, 3}</string>
 				<string>{8, 8}</string>
 				<string>{15, 15}</string>
 				<string>{16, 16}</string>
