@@ -2421,7 +2421,7 @@
 										<object class="NSSegmentedControl" id="486978121">
 											<reference key="NSNextResponder" ref="743107824"/>
 											<int key="NSvFlags">268</int>
-											<string key="NSFrame">{{8, 586}, {532, 23}}</string>
+											<string key="NSFrame">{{8, 584}, {532, 25}}</string>
 											<reference key="NSSuperview" ref="743107824"/>
 											<reference key="NSWindow"/>
 											<reference key="NSNextKeyView" ref="29037829"/>
@@ -2487,7 +2487,7 @@
 														<int key="NSSegmentItemImageScaling">0</int>
 													</object>
 												</object>
-												<int key="NSSegmentStyle">6</int>
+												<int key="NSSegmentStyle">4</int>
 											</object>
 										</object>
 										<object class="NSButton" id="42565627">
