@@ -31,16 +31,16 @@
 	SourceListItem *Topic1 = [SourceListItem itemWithTitle:@"Projects" identifier:@"Projects"];
 	
 	//Create a second-level group to Topic2
-	SourceListItem *Topic1Sub1 = [SourceListItem itemWithTitle:@"Project1Sub1" identifier:@"Project1Sub1"];
-	SourceListItem *Topic1Sub2 = [SourceListItem itemWithTitle:@"Project1Sub2" identifier:@"Project1Sub2"];
-	SourceListItem *Topic1Sub3 = [SourceListItem itemWithTitle:@"Project1Sub3" identifier:@"Project1Sub3"];
+	SourceListItem *Topic1Sub1 = [SourceListItem itemWithTitle:@"Project1" identifier:@"Project1"];
+	SourceListItem *Topic1Sub2 = [SourceListItem itemWithTitle:@"Project3" identifier:@"Project3"];
+	SourceListItem *Topic1Sub3 = [SourceListItem itemWithTitle:@"Project4" identifier:@"Project4"];
 	[Topic1Sub1 setIcon:[NSImage imageNamed:@"Item.png"]];
 	[Topic1Sub2 setIcon:[NSImage imageNamed:@"Item.png"]];
 	[Topic1Sub3 setIcon:[NSImage imageNamed:@"Item.png"]];
 	
-	SourceListItem *Topic1SubGroup1 = [SourceListItem itemWithTitle:@"Project1SubGroup1" identifier:@"Project1SubGroup1"];
+	SourceListItem *Topic1SubGroup1 = [SourceListItem itemWithTitle:@"Project2" identifier:@"Project2"];
     [Topic1SubGroup1 setBadgeValue:1];
-	SourceListItem *Topic1SubGroup1Sub1 = [SourceListItem itemWithTitle:@"Project1SubGroup1Sub1" identifier:@"Project1SubGroup1Sub1"];
+	SourceListItem *Topic1SubGroup1Sub1 = [SourceListItem itemWithTitle:@"Project1_2" identifier:@"Project1_2"];
     
 	[Topic1SubGroup1 setIcon:[NSImage imageNamed:@"Folder.png"]];
 	[Topic1SubGroup1Sub1 setIcon:[NSImage imageNamed:@"Item.png"]];
@@ -51,29 +51,29 @@
     
     //Set up the "Today" parent item and children
 	SourceListItem *Topic2 = [SourceListItem itemWithTitle:@"Today" identifier:@"Today"];
-    [Topic2 setBadgeValue:3];
+    //[Topic2 setBadgeValue:3];
     
-	SourceListItem *Topic2Sub1 = [SourceListItem itemWithTitle:@"Topic2Sub1" identifier:@"Topic2Sub1"];
-	SourceListItem *Topic2Sub2 = [SourceListItem itemWithTitle:@"Topic2Sub2" identifier:@"Topic2Sub2"];
-	SourceListItem *Topic2Sub3 = [SourceListItem itemWithTitle:@"Topic2Sub3" identifier:@"Topic2Sub3"];
+	SourceListItem *Topic2Sub1 = [SourceListItem itemWithTitle:@"Event 1" identifier:@"Termin 1"];
+	SourceListItem *Topic2Sub2 = [SourceListItem itemWithTitle:@"Todo 1" identifier:@"Todo 1"];
+	SourceListItem *Topic2Sub3 = [SourceListItem itemWithTitle:@"Event 2" identifier:@"Termin 2"];
 	[Topic2Sub1 setIcon:[NSImage imageNamed:@"iCal 16.tif"]];
-	[Topic2Sub2 setIcon:[NSImage imageNamed:@"NotesMailbox.tiff"]];
+	[Topic2Sub2 setIcon:[NSImage imageNamed:@"SlideshowSettings.tiff"]];
 	[Topic2Sub3 setIcon:[NSImage imageNamed:@"iCal 16.tif"]];
     
 	[Topic2 setChildren:[NSArray arrayWithObjects:Topic2Sub1, Topic2Sub2, Topic2Sub3, nil]];
 		
 	//Set up the "Inbox" parent item and children
 	SourceListItem *Topic3 = [SourceListItem itemWithTitle:@"Inbox" identifier:@"Inbox"];
-    [Topic3 setBadgeValue:4];
+    //[Topic3 setBadgeValue:4];
     
-	SourceListItem *Topic3Sub1 = [SourceListItem itemWithTitle:@"Topic3Sub1" identifier:@"Topic3Sub1"];
-	SourceListItem *Topic3Sub2 = [SourceListItem itemWithTitle:@"Topic3Sub2" identifier:@"Topic3Sub2"];
-	SourceListItem *Topic3Sub3 = [SourceListItem itemWithTitle:@"Topic3Sub3" identifier:@"Topic3Sub3"];
-	SourceListItem *Topic3Sub4 = [SourceListItem itemWithTitle:@"Topic3Sub4" identifier:@"Topic3Sub4"];
-	[Topic3Sub1 setIcon:[NSImage imageNamed:@"TB_Get_Mail.tiff"]];
-	[Topic3Sub2 setIcon:[NSImage imageNamed:@"TB_Get_Mail.tiff"]];
-	[Topic3Sub3 setIcon:[NSImage imageNamed:@"TB_Get_Mail.tiff"]];
-	[Topic3Sub4 setIcon:[NSImage imageNamed:@"TB_Get_Mail.tiff"]];
+	SourceListItem *Topic3Sub1 = [SourceListItem itemWithTitle:@"New Mail 1" identifier:@"New Mail 1"];
+	SourceListItem *Topic3Sub2 = [SourceListItem itemWithTitle:@"New Mail 2" identifier:@"New Mail 2"];
+	SourceListItem *Topic3Sub3 = [SourceListItem itemWithTitle:@"New Mail 3" identifier:@"New Mail 3"];
+	SourceListItem *Topic3Sub4 = [SourceListItem itemWithTitle:@"New Mail 4" identifier:@"New Mail 4"];
+	[Topic3Sub1 setIcon:[NSImage imageNamed:@"InMailbox.tiff"]];
+	[Topic3Sub2 setIcon:[NSImage imageNamed:@"InMailbox.tiff"]];
+	[Topic3Sub3 setIcon:[NSImage imageNamed:@"InMailbox.tiff"]];
+	[Topic3Sub4 setIcon:[NSImage imageNamed:@"InMailbox.tiff"]];
     
 	[Topic3 setChildren:[NSArray arrayWithObjects:Topic3Sub1,Topic3Sub2,Topic3Sub3,Topic3Sub4, nil]];
 
@@ -195,7 +195,7 @@
     else if([[group identifier] isEqualToString:@"Today"])
 		return YES;
     else if([[group identifier] isEqualToString:@"Inbox"])
-		return YES;
+		return NO;
 
 	return NO;
 }
